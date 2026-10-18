@@ -8,7 +8,7 @@ This project showcases an interactive business intelligence solution built with 
 
 ## 🚀 Project Overview
 
-The **Blinkit Sales Power-BI Analysis Dashboard** uses BlinkIT grocery data to analyze business performance across product categories, outlet types, outlet sizes, and locations.
+The **Blinkit Sales Power-BI Analysis Dashboard** uses BlinkIT_data to analyze business performance across product categories, outlet types, outlet sizes, and locations.
 
 The dashboard enables users to analyze:
 
@@ -108,7 +108,7 @@ These filters allow users to focus on specific categories and compare business p
 
 ## 🧩 Data Model
 
-The dashboard is built around a centralized BlinkIT grocery dataset.
+The dashboard is built around a centralized BlinkIT_dataset.
 
 ### Dimensions / Attributes
 
